@@ -1,5 +1,8 @@
 pandas
 numpy
 ipykernel
-
-sqlite3
+bs4
+seaborn
+streamlit
+scikit-learn
+flask
