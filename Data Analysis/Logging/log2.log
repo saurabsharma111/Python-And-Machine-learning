@@ -1,0 +1,8 @@
+26/01/2025 12:02:28 PM-Arithmetic app-DEBUG-Adding 10 + 20, result = 30
+26/01/2025 12:02:28 PM-Arithmetic app-DEBUG-Subtracting 20 from 10, result = -10
+26/01/2025 12:02:28 PM-Arithmetic app-DEBUG-Multiplying 10 and 20, result = 200
+26/01/2025 12:02:28 PM-Arithmetic app-DEBUG-Dividing 10 by 20, result = 0.5
+26/01/2025 12:02:51 PM-Arithmetic app-DEBUG-Adding 10 + 20, result = 30
+26/01/2025 12:02:51 PM-Arithmetic app-DEBUG-Subtracting 20 from 10, result = -10
+26/01/2025 12:02:51 PM-Arithmetic app-DEBUG-Multiplying 10 and 20, result = 200
+26/01/2025 12:02:51 PM-Arithmetic app-ERROR-Cannot divide by zero
